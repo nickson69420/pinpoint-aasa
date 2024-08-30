@@ -28,11 +28,11 @@
        ]
    },
    "webcredentials": {
-      "apps": [ "ABCDE12345.com.example.app" ]
+      "apps": [ "3DKT8BKB99.app.pinpointbowling.Pinpoint" ]
    },
 
 
     "appclips": {
-        "apps": ["ABCDE12345.com.example.MyApp.Clip"]
+        "apps": ["3DKT8BKB99.app.pinpointbowling.Pinpoint.Clip"]
     }
 }
